@@ -6,14 +6,14 @@
             "bin": [
                 "arc.exe"
             ],
-            "hash": "5c3a75f17fd465ad1e0d11fc302a9934e06be77b9a502a5a4b8f7e2c704284f1"
+            "hash": "ba0debc9e571a9f217d5f868a12d0858d14fe0c3015a528d63cd983c187ba5c0"
         },
         "arm64": {
             "url": "https://github.com/Dieg0Code/arc/releases/download/v0.1.0/arc_windows_arm64.zip",
             "bin": [
                 "arc.exe"
             ],
-            "hash": "cdfb864d4223f55abbb64463661d57ac5b665415ed23e5e59537e29266b4f563"
+            "hash": "cf39cb41436bc183877bd01143fb037302803409fc691ffef21b3a46baaad0b1"
         }
     },
     "homepage": "https://github.com/Dieg0Code/arc",
