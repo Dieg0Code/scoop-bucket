@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/Dieg0Code/arc/releases/download/v0.1.0/arc_windows_amd64.zip",
+            "bin": [
+                "arc.exe"
+            ],
+            "hash": "e0c81f7a37604c1459529fd6666f4083fde1a24eaccac2666ca9d9e34e70be6c"
+        },
+        "arm64": {
+            "url": "https://github.com/Dieg0Code/arc/releases/download/v0.1.0/arc_windows_arm64.zip",
+            "bin": [
+                "arc.exe"
+            ],
+            "hash": "ca14d802293894a0a597087b83fab52e5db339e9b5545631592c42003ad16b8a"
+        }
+    },
+    "homepage": "https://github.com/Dieg0Code/arc",
+    "license": "MIT",
+    "description": "Version your agent's context like git versions code."
+}
