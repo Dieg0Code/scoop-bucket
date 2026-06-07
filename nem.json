@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/Dieg0Code/nem/releases/download/v0.1.0/nem_windows_amd64.zip",
+            "bin": [
+                "nem.exe"
+            ],
+            "hash": "f0cfc168c17be419281a62d97198a68d9737feaab4dab62ef2a136237e376835"
+        },
+        "arm64": {
+            "url": "https://github.com/Dieg0Code/nem/releases/download/v0.1.0/nem_windows_arm64.zip",
+            "bin": [
+                "nem.exe"
+            ],
+            "hash": "4a92d8fa618cae1a725abdd15c1c5b048018822d62408663d5b2e678a3283b49"
+        }
+    },
+    "homepage": "https://github.com/Dieg0Code/nem",
+    "license": "MIT",
+    "description": "Version your agent's context like git versions code."
+}
